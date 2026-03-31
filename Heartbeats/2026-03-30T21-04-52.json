@@ -62,16 +62,6 @@
       "extraInfo": ""
     },
     {
-      "jobName": "Test Run Once Private",
-      "runDay": "2026-03-20",
-      "startTime": "15:28",
-      "stopTime": "15:33",
-      "jobType": "Past Event",
-      "restreamTarget": "PrivEvent",
-      "owner": "Verity",
-      "extraInfo": ""
-    },
-    {
       "jobName": "Test weekly",
       "runDay": "sat",
       "startTime": "16:20",
