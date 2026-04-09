@@ -1,9 +1,5 @@
 {
   "Users": {
-    "Admin": {
-      "userName": "Admin",
-      "hashedPassword": "$2b$12$7/E3nPH.ur0pvGzX2fqGnO05Vrt9bgMsEu4BC28aJvKN5l3PBOfT."
-    },
     "Verity": {
       "userName": "Verity",
       "hashedPassword": "$2b$12$..kkCBaqp2jSorzrsSJ/iun/ylSF0wjdu380FTUq0iORhD2T9miSu"
@@ -11,6 +7,10 @@
     "IPRF": {
       "userName": "IPRF",
       "hashedPassword": "$2b$12$0dhqnbJll/sdI0VIfW2K2Oz9pmwBdEZ/0eqBp9Wg.4Fkp4tGTkaoW"
+    },
+    "Admin": {
+      "userName": "Admin",
+      "hashedPassword": "$2b$12$7/E3nPH.ur0pvGzX2fqGnO05Vrt9bgMsEu4BC28aJvKN5l3PBOfT."
     }
   },
   "Jobs": {},
