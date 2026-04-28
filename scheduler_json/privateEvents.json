@@ -5,5 +5,12 @@
     "startTime_utc": "22:00",
     "stopTime_utc": "22:05",
     "url": null
+  },
+  {
+    "jobName": "After changes",
+    "jobDay_utc": "Sunday",
+    "startTime_utc": "10:00",
+    "stopTime_utc": "11:45",
+    "url": null
   }
 ]
