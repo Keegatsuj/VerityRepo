@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "jobName": "test3",
+    "jobDay_utc": "Saturday",
+    "startTime_utc": "22:00",
+    "stopTime_utc": "22:05",
+    "url": null
+  }
+]
