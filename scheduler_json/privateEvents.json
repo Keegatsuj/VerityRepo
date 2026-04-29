@@ -1,14 +1,14 @@
 [
   {
-    "jobName": "test3",
-    "jobDay_utc": "Saturday",
-    "startTime_utc": "03:00",
-    "stopTime_utc": "03:05",
+    "jobName": "After changes",
+    "jobDay_utc": "Sunday",
+    "startTime_utc": "10:00",
+    "stopTime_utc": "11:45",
     "url": null
   },
   {
-    "jobName": "After changes",
-    "jobDay_utc": "Sunday",
+    "jobName": "test3",
+    "jobDay_utc": "Wednesday",
     "startTime_utc": "10:00",
     "stopTime_utc": "11:45",
     "url": null
