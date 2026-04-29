@@ -7,6 +7,13 @@
     "url": null
   },
   {
+    "jobName": "Thurs 10:00-11:15",
+    "jobDay_utc": "Thursday",
+    "startTime_utc": "15:00",
+    "stopTime_utc": "16:15",
+    "url": null
+  },
+  {
     "jobName": "test3",
     "jobDay_utc": "Wednesday",
     "startTime_utc": "15:00",
