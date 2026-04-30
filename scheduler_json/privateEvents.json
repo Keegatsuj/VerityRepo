@@ -1,2 +1,50 @@
-[
-]
+{
+  "test 1": {
+    "Event": {
+      "eventName": "test 1",
+      "eventStart_utc": "2026-04-30T14:00:00Z",
+      "eventDuration": 120,
+      "eventType": "Weekly",
+      "targetKey": "PrivEvent",
+      "owner": "Verity",
+      "extraInfo": ""
+    },
+    "url": null
+  },
+  "Event 2": {
+    "Event": {
+      "eventName": "Event 2",
+      "eventStart_utc": "2026-05-06T14:00:00Z",
+      "eventDuration": 5,
+      "eventType": "Run Once",
+      "targetKey": "PrivEvent",
+      "owner": "Verity",
+      "extraInfo": "aaaaaaaaaaaaaa"
+    },
+    "url": null
+  },
+  "Event 3": {
+    "Event": {
+      "eventName": "Event 3",
+      "eventStart_utc": "2026-05-08T14:00:00Z",
+      "eventDuration": 33,
+      "eventType": "Weekly",
+      "targetKey": "PrivEvent",
+      "owner": "Verity",
+      "extraInfo": ""
+    },
+    "url": null
+  },
+  "444444444444": {
+    "Event": {
+      "eventName": "444444444444",
+      "eventStart_utc": "2026-05-05T14:00:00Z",
+      "eventDuration": 101,
+      "eventType": "Run Once",
+      "targetKey": "PrivEvent",
+      "owner": "Verity",
+      "extraInfo": ""
+    },
+    "url": null
+  }
+}
