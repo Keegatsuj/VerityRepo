@@ -11,18 +11,6 @@
     },
     "url": null
   },
-  "Event 3": {
-    "Event": {
-      "eventName": "Event 3",
-      "eventStart_utc": "2026-05-08T14:00:00Z",
-      "eventDuration": 33,
-      "eventType": "Weekly",
-      "targetKey": "PrivEvent",
-      "owner": "Verity",
-      "extraInfo": ""
-    },
-    "url": null
-  },
   "444444444444": {
     "Event": {
       "eventName": "444444444444",
