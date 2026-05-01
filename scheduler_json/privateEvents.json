@@ -16,7 +16,7 @@
       "eventName": "444444444444",
       "eventStart_utc": "2026-05-05T14:00:00Z",
       "eventDuration": 101,
-      "eventType": "Run Once",
+      "eventType": "Weekly",
       "targetKey": "PrivEvent",
       "owner": "Verity",
       "extraInfo": ""
