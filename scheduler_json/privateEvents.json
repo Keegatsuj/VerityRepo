@@ -1,14 +1,1 @@
-{
-  "Event 2": {
-    "Event": {
-      "eventName": "Event 2",
-      "eventStart_utc": "2026-05-06T14:00:00Z",
-      "eventDuration": 5,
-      "eventType": "Run Once",
-      "targetKey": "PrivEvent",
-      "owner": "Verity",
-      "extraInfo": "aaaaaaaaaaaaaa"
-    },
-    "url": null
-  }
-}
+{}
