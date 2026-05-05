@@ -1,10 +1,18 @@
 {
-  "start_timestamp_utc": "2026-05-05T20:40:48.878613+00:00",
+  "start_timestamp_utc": "2026-05-05T20:55:48.885420+00:00",
   "pid": 31596,
-  "current_stream_mode": null,
-  "waiting_for_video": false,
-  "video_still_running_at": "2026-05-05T20:54:46.886008+00:00",
-  "current_stream_event": null,
+  "current_stream_mode": "scheduled",
+  "waiting_for_video": true,
+  "video_still_running_at": "2026-05-05T20:55:46.883245+00:00",
+  "current_stream_event": {
+    "eventName": "Murray Unlisted for testing",
+    "eventStart_utc": "2026-05-05T20:55:00Z",
+    "eventDuration": 15,
+    "eventType": "Run Once",
+    "targetKey": "VerUnlisted",
+    "owner": "Verity",
+    "extraInfo": "Testing Sch4"
+  },
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-05T20:54:48.878056+00:00"
+  "last_verified_timestamp_utc": "2026-05-05T20:55:48.885420+00:00"
 }
