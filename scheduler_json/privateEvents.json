@@ -1,1 +1,14 @@
-{}
+{
+  "Murray Private for testing": {
+    "Event": {
+      "eventName": "Murray Private for testing",
+      "eventStart_utc": "2026-05-05T00:17:00Z",
+      "eventDuration": 2,
+      "eventType": "Weekly",
+      "targetKey": "VerPrivate",
+      "owner": "Verity",
+      "extraInfo": "Testing Sch4"
+    },
+    "url": null
+  }
+}
