@@ -10,17 +10,5 @@
       "extraInfo": "Testing Sch4"
     },
     "url": null
-  },
-  "Murray Unlisted for testing": {
-    "Event": {
-      "eventName": "Murray Unlisted for testing",
-      "eventStart_utc": "2026-05-19T00:38:00Z",
-      "eventDuration": 2,
-      "eventType": "Weekly",
-      "targetKey": "VerPrivate",
-      "owner": "Verity",
-      "extraInfo": "Testing Sch4"
-    },
-    "url": null
   }
 }
