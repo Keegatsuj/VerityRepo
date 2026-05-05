@@ -3,7 +3,7 @@
   "pid": 13516,
   "current_stream_mode": "scheduled",
   "waiting_for_video": true,
-  "video_still_running_at": "2026-05-05T00:53:36.910703+00:00",
+  "video_still_running_at": "2026-05-05T00:54:36.906600+00:00",
   "current_stream_event": {
     "eventName": "Murray Unlisted for testing",
     "eventStart_utc": "2026-05-05T00:53:00Z",
@@ -14,5 +14,5 @@
     "extraInfo": "Testing Sch4"
   },
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-05T00:53:38.908325+00:00"
+  "last_verified_timestamp_utc": "2026-05-05T00:54:38.913383+00:00"
 }
