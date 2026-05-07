@@ -1,6 +1,6 @@
 {
-  "start_timestamp_utc": "2026-05-07T20:19:34.016412+00:00",
-  "pid": 15348,
+  "start_timestamp_utc": "2026-05-07T20:30:36.275204+00:00",
+  "pid": 10068,
   "current_stream_mode": "demand",
   "waiting_for_video": true,
   "video_still_running_at": "2026-05-07T20:19:32.012221+00:00",
@@ -14,5 +14,5 @@
     "extraInfo": ""
   },
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-07T20:19:34.016412+00:00"
+  "last_verified_timestamp_utc": "2026-05-07T20:30:36.275204+00:00"
 }
