@@ -1,18 +1,10 @@
 {
-  "start_timestamp_utc": "2026-05-08T21:30:10.695159+00:00",
+  "start_timestamp_utc": "2026-05-08T21:40:10.694629+00:00",
   "pid": 6164,
-  "current_stream_mode": "scheduled",
-  "waiting_for_video": true,
-  "video_still_running_at": "2026-05-08T21:39:08.691305+00:00",
-  "current_stream_event": {
-    "eventName": "Test Unlisted again",
-    "eventStart_utc": "2026-05-08T21:30:00Z",
-    "eventDuration": 10,
-    "eventType": "Weekly",
-    "targetKey": "VerUnlisted",
-    "owner": "Verity",
-    "extraInfo": ""
-  },
+  "current_stream_mode": null,
+  "waiting_for_video": false,
+  "video_still_running_at": "2026-05-08T21:40:08.689632+00:00",
+  "current_stream_event": null,
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-08T21:39:10.691186+00:00"
+  "last_verified_timestamp_utc": "2026-05-08T21:40:10.694629+00:00"
 }
