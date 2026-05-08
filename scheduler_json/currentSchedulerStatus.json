@@ -3,7 +3,7 @@
   "pid": 6164,
   "current_stream_mode": "scheduled",
   "waiting_for_video": true,
-  "video_still_running_at": "2026-05-08T21:36:08.692946+00:00",
+  "video_still_running_at": "2026-05-08T21:37:08.689219+00:00",
   "current_stream_event": {
     "eventName": "Test Unlisted again",
     "eventStart_utc": "2026-05-08T21:30:00Z",
@@ -14,5 +14,5 @@
     "extraInfo": ""
   },
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-08T21:36:10.694557+00:00"
+  "last_verified_timestamp_utc": "2026-05-08T21:37:10.693640+00:00"
 }
