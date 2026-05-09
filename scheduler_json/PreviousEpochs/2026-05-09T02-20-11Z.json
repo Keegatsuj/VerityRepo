@@ -1,0 +1,10 @@
+{
+  "start_timestamp_utc": "2026-05-08T22:21:10.682125+00:00",
+  "pid": 6164,
+  "current_stream_mode": null,
+  "waiting_for_video": false,
+  "video_still_running_at": "2026-05-09T02:19:08.693542+00:00",
+  "current_stream_event": null,
+  "encoder_status_text": "unknown",
+  "last_verified_timestamp_utc": "2026-05-09T02:19:10.688104+00:00"
+}
