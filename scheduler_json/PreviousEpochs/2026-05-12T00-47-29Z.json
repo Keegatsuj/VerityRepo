@@ -1,0 +1,18 @@
+{
+  "start_timestamp_utc": "2026-05-12T00:40:32.658684+00:00",
+  "pid": 9272,
+  "current_stream_mode": "demand",
+  "waiting_for_video": true,
+  "video_still_running_at": "2026-05-12T00:44:30.653795+00:00",
+  "current_stream_event": {
+    "eventName": "Demand-2026-05-12T00:40:27+00:00",
+    "eventStart_utc": "2026-05-12T00:40:27+00:00",
+    "eventDuration": 5,
+    "eventType": "Demand",
+    "targetKey": "VerUnlisted",
+    "owner": "Verity",
+    "extraInfo": ""
+  },
+  "encoder_status_text": "unknown",
+  "last_verified_timestamp_utc": "2026-05-12T00:44:32.653771+00:00"
+}
