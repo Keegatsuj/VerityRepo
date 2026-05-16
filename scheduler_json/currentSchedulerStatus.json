@@ -1,9 +1,9 @@
 {
-  "start_timestamp_utc": "2026-05-16T18:37:09.930589+00:00",
+  "start_timestamp_utc": "2026-05-16T18:38:09.924450+00:00",
   "pid": 18524,
   "current_stream_mode": "demand",
   "waiting_for_video": true,
-  "video_still_running_at": "2026-05-16T18:37:07.927858+00:00",
+  "video_still_running_at": "2026-05-16T18:38:07.917320+00:00",
   "current_stream_event": {
     "eventName": "Demand-Murray Unlisted for testing",
     "eventStart_utc": "2026-05-16T18:26:35+00:00",
@@ -15,5 +15,5 @@
   },
   "current_stream_extra_minutes": 15,
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-16T18:37:09.930589+00:00"
+  "last_verified_timestamp_utc": "2026-05-16T18:38:09.924450+00:00"
 }
