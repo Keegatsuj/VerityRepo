@@ -1,9 +1,9 @@
 {
-  "start_timestamp_utc": "2026-05-17T13:17:07.896084+00:00",
+  "start_timestamp_utc": "2026-05-17T13:18:07.896119+00:00",
   "pid": 1609,
   "current_stream_mode": "scheduled",
   "waiting_for_video": true,
-  "video_still_running_at": "2026-05-17T13:17:05.896935+00:00",
+  "video_still_running_at": "2026-05-17T13:18:05.896945+00:00",
   "current_stream_event": {
     "eventName": "Pre-Service Worship Team Rehearsal (unlisted)",
     "eventStart_utc": "2026-05-17T13:15:00Z",
@@ -15,5 +15,5 @@
   },
   "current_stream_extra_minutes": 0,
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-17T13:17:07.896084+00:00"
+  "last_verified_timestamp_utc": "2026-05-17T13:18:07.896119+00:00"
 }
