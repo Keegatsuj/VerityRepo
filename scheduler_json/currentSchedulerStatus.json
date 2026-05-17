@@ -1,11 +1,11 @@
 {
-  "start_timestamp_utc": "2026-05-17T13:46:07.896097+00:00",
+  "start_timestamp_utc": "2026-05-17T13:47:07.896100+00:00",
   "pid": 1609,
   "current_stream_mode": null,
   "waiting_for_video": false,
-  "video_still_running_at": "2026-05-17T13:46:05.896916+00:00",
+  "video_still_running_at": "2026-05-17T13:47:05.896903+00:00",
   "current_stream_event": null,
   "current_stream_extra_minutes": 0,
   "encoder_status_text": "unknown",
-  "last_verified_timestamp_utc": "2026-05-17T13:46:07.896097+00:00"
+  "last_verified_timestamp_utc": "2026-05-17T13:47:07.896100+00:00"
 }
