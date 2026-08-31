@@ -1,5 +1,17 @@
 [
   {
+    "eventDate": "2026-08-30",
+    "startTime": "10:00",
+    "speaker": "Nathan Weber",
+    "series": "The Parables of Jesus",
+    "scripture": "Luke 12:13-21",
+    "messageTitle": "The Rich Fool",
+    "notes": null,
+    "youTubeTitle": "Verity Community Church (Waterloo)",
+    "youTubeLink": "https://www.youtube.com/watch?v=AmdyFRW0i24",
+    "thumbnail": "https://keegatsuj.github.io/VerityRepo/thumbnails/2026-08-30_10-00_thumb.jpg?t=1788192257"
+  },
+  {
     "eventDate": "2026-08-23",
     "startTime": "10:00",
     "speaker": "Matthew MacGregor",
